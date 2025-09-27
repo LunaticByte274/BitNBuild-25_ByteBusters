@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+ml_service/.venv/
+
+# Node.js dependencies
+server/node_modules/
+workers/node_modules/
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
